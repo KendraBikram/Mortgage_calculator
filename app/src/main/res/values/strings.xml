@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">mortgage</string>
+    <string name="title_activity_output">Output</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="fill_name">Name</string>
+    <string name="fill_amount">Amount</string>
+    <string name="fill_interest_rate">Interest Rate</string>
+    <string name="fill_mortgage_calculator">Mortgage Calculator</string>
+    <string name="fill_extra_payment">Extra Payment</string>
+    <string name="fill_years">Years</string>
+    <string name="fill_calculate">Calculate</string>
+    <string name="fill_down_payment_amount">Down Payment Amount</string>
+</resources>
