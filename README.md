@@ -1,17 +1,17 @@
 # Mortgage_calculator
 
 # Goal
-The goal was to create an android application and the scope of the project was to create a working mortgage calculator application with required features such as: -
-o The user’s name, down payment, total mortgage amount, yearly interest rate and loan duration.
-o The completed product should include the extra payments per month or per year when calculating the mortgages.
+The goal was to create an android application and the scope of the project was to create a working mortgage calculator application with required features such as: -<br>
+o The user’s name, down payment, total mortgage amount, yearly interest rate and loan duration.<br>
+o The completed product should include the extra payments per month or per year when calculating the mortgages.<br>
 o The app should allow the user to compare at least two different mortgage scenarios using an amortization table.
 
 # Tools
-IDE and SDK: Android Studio with SDK API 19: Android 4.4 (KitKat) <br>
+IDE and SDK: Android Studio with SDK API 19: Android 4.4 (KitKat)<br>
 Programming Langugage: Kotlin
 
 # SDLC 
-Agile Methodology
+## Agile Methodology
 During creation of applicaiton, agile methodology was used for making improvement to the different version of the applicaiton.
 ![Screenshot 2023-08-27 213913](https://github.com/KendraBikram/Mortgage_calculator/assets/91078829/cc0d39a6-db46-40ef-a4a2-b87b0bf0297c)
 
