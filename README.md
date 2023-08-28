@@ -1,4 +1,4 @@
-# Mortgage_calculator
+# Mortgage Calculator
 
 # Goal
 The goal was to create an android application and the scope of the project was to create a working mortgage calculator application with required features such as: -<br>
@@ -15,7 +15,7 @@ Programming Langugage: Kotlin
 During creation of applicaiton, agile methodology was used for making improvement to the different version of the applicaiton.
 ![Screenshot 2023-08-27 213913](https://github.com/KendraBikram/Mortgage_calculator/assets/91078829/cc0d39a6-db46-40ef-a4a2-b87b0bf0297c)
 
-# Finished Application Showcases
+# Finished Application Showcase
 The application homescreen.
 ![Screenshot 2023-08-27 214129](https://github.com/KendraBikram/Mortgage_calculator/assets/91078829/30b971b1-edc5-4dc3-99b7-28574f127664)
 
