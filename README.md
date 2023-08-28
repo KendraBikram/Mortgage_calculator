@@ -7,7 +7,7 @@ o The completed product should include the extra payments per month or per year 
 o The app should allow the user to compare at least two different mortgage scenarios using an amortization table.
 
 # Tools
-IDE and SDK: Android Studio with SDK API 19: Android 4.4 (KitKat)
+IDE and SDK: Android Studio with SDK API 19: Android 4.4 (KitKat) <br>
 Programming Langugage: Kotlin
 
 # SDLC 
@@ -15,7 +15,7 @@ Agile Methodology
 During creation of applicaiton, agile methodology was used for making improvement to the different version of the applicaiton.
 ![Screenshot 2023-08-27 213913](https://github.com/KendraBikram/Mortgage_calculator/assets/91078829/cc0d39a6-db46-40ef-a4a2-b87b0bf0297c)
 
-# Final Showcases
+# Finished Application Showcases
 The application homescreen.
 ![Screenshot 2023-08-27 214129](https://github.com/KendraBikram/Mortgage_calculator/assets/91078829/30b971b1-edc5-4dc3-99b7-28574f127664)
 
